@@ -31,7 +31,7 @@
 
     "dist_config": {
         "dist_backend": "nccl",
-        "dist_url": "tcp://localhost:54321",
+        "dist_url": "tcp://algo-1:54321",
         "world_size": 1
     }
 }
