@@ -21,9 +21,11 @@ faster than real-time on CPU with comparable quality to an autoregressive counte
 
 Visit our [demo website](https://jik876.github.io/hifi-gan-demo/) for audio samples.
 
-
+<span style="color:red">
 # This fork is running on Amazon SageMaker
-
+Please run hifi-gan.ipynb on Amazon SageMaker Studio
+</style>
+-----Below can be ingored or only for reference----
 ## Pre-requisites
 1. Python >= 3.6
 2. Clone this repository.
